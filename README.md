@@ -19,13 +19,13 @@
 ---
 Код работает в Colab и доступен по ссылкам:
 
-* [Часть 1. Предобработка и NER](https://drive.google.com/file/d/1yBFfVlweb6FaaCzvmQJYzhKE-1IHSjqT/view?usp=sharing)
+* [Часть 1. Предобработка и NER](https://drive.google.com/file/d/1DvcI_RuMdXD5PQQU_ECqtulwRthL_dny/view?usp=sharing)
 
-* [Часть 2. Глобальное моделирование](https://drive.google.com/file/d/1NbqvBibyu2mGYoqMsqyLSZP7zg_zomL5/view?usp=sharing)
+* [Часть 2. Глобальное моделирование](https://drive.google.com/file/d/1yntQEQhqEhO1l6Ct_rCTJsPITOy8dujJ/view?usp=sharing)
 
-* [Часть 3. Локальное моделирование](https://drive.google.com/file/d/1Zqd1L0pSB2wcMttRDIl78d_-tle-qXal/view?usp=sharing)
+* [Часть 3. Локальное моделирование](https://drive.google.com/file/d/142Uu-cIwLSV9D8oUdeTYPEoIc49J8xlZ/view?usp=sharing)
 
-* [Часть 4. Сетевой анализ](https://drive.google.com/file/d/1SJKvVxeqkqJX1NVGKD6N_bJaHvUA1ijN/view?usp=sharing)
+* [Часть 4. Сетевой анализ](https://drive.google.com/file/d/1IJ9wZ9CXZ5Z1K4YnPJc9eEs_FwgDIG-h/view?usp=sharing)
 
 ---
 #### Используемые технологии
